@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/WHXWYH9/Screenshot-2024-09-06-141055.png)]
+![Head](https://i.ibb.co/WHXWYH9/Screenshot-2024-09-06-141055.png)
 <h1 align="center">Hi 👋, I'm Damitha Weerasinghe</h1>
 <h3 align="center">Aspiring Data Scientist | Data Analyst Intern</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
