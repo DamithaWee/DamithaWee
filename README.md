@@ -1,4 +1,5 @@
 ![MasterHead](https://drive.google.com/file/d/1abhkhNuJeEKtKOcKWxTclAoKl_DZ-bRh/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1abhkhNuJeEKtKOcKWxTclAoKl_DZ-bRh/view?usp=sharing" alt="damithawee" />
 <h1 align="center">Hi 👋, I'm Damitha Weerasinghe</h1>
 <h3 align="center">Aspiring Data Scientist | Data Analyst Intern</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
